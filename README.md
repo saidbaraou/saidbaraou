@@ -1,6 +1,8 @@
- Hi, I’m @saidbaraou ! 😄
- - I'm a curious 👀 web developer
- - I love JavaScript and Python !
+ Hi, I’m @saidbaraou ! 😄  
+ 
+ A curious 👀 web developer in love with JavaScript and Python  
+ 
+ Learning single day
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidbaraou&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
