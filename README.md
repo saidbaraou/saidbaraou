@@ -1,29 +1,19 @@
- # Hi, I’m @saidbaraou ! 😄  
- 
- ## 🚀 A curious 👀 web developer in love with JavaScript and Python | DevOps enthusiast
- 
- Learning every single day
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbaraou&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
-<h1 align="center">Hi 👋, I'm Saïd Baraou</h1>
-<h3 align="center">A fullstack developer | DevOps enthusiast from France</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saidbaraou&label=Profile%20views&color=0e75b6&style=flat" alt="saidbaraou" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidbaraou" alt="saidbaraou" /></a> </p>
+<h1 align="center">Hi 😄, I'm Saïd Baraou</h1>
+<h3 align="center">🚀 A curious 👀 web developer | DevOps enthusiast</h3>
+<h5 align="center">Learning EVERY SINGLE DAY</h5>
 
 - 🔭 I’m currently working on [A marketplace application](https://github.com/saidbaraou/commerce)
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 Actually learning **React and Django**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-e1wb.onrender.com/](https://portfolio-e1wb.onrender.com/)
+- 📫 Hit me up **said.baraou8@gmail.com**
 
-- 📫 How to reach me **said.baraou8@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-e1wb.onrender.com/docs/CV_SAID-BARAOU_ALTERNANCE_CDA.pdf](https://portfolio-e1wb.onrender.com/docs/CV_SAID-BARAOU_ALTERNANCE_CDA.pdf)
+ Seeking to join an ambitious team and contribute to production-level software. I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
