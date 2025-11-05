@@ -1,6 +1,6 @@
- #Hi, I’m @saidbaraou ! 😄  
+ # Hi, I’m @saidbaraou ! 😄  
  
- A curious 👀 web developer in love with JavaScript and Python  
+ ## 🚀 A curious 👀 web developer in love with JavaScript and Python | DevOps enthusiast
  
  Learning every single day
 
