@@ -1,7 +1,8 @@
 <h1 align="center">Hi 😄, I'm Saïd Baraou</h1>
 <h3 align="center">🚀 A curious 👀 web developer | DevOps enthusiast</h3>
 <h5 align="center">Learning EVERY SINGLE DAY</h5>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbaraou&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidbaraou&show_icons=true&locale=en" alt="saidbaraou" /></p>
 
 - 🔭 I’m currently working on [A marketplace application](https://github.com/saidbaraou/commerce)
 
