@@ -1,4 +1,4 @@
- Hi, I’m @saidbaraou ! 😄  
+ #Hi, I’m @saidbaraou ! 😄  
  
  A curious 👀 web developer in love with JavaScript and Python  
  
