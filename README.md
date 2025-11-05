@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A curious 👀 web developer | DevOps enthusiast</h3>
 <h5 align="center">Learning EVERY SINGLE DAY</h5>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbaraou&show_icons=true&locale=en&layout=compact" alt="saidbaraou" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbaraou&show_icons=true&locale=en&layout=compact" alt="saidbaraou" /></p>
 
 - 🔭 I’m currently working on [A marketplace application](https://github.com/saidbaraou/commerce)
 
