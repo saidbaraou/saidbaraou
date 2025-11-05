@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/saïd-baraou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saïd-baraou" height="30" width="40" /></a>
 </p>
 
-<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbaraou&theme=dark&show_icons=true&hide_border=true&layout=compact)</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbaraou&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
