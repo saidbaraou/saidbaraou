@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😄, I'm Saïd Baraou</h1>
+<h1 align="center">Hi, I'm Saïd Baraou 😄</h1>
 <h3 align="center">🚀 A curious 👀 web developer | DevOps enthusiast</h3>
 <h5 align="center">Learning EVERY SINGLE DAY</h5>
 
