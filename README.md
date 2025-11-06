@@ -10,8 +10,8 @@
 
 - 📫 Hit me up **said.baraou8@gmail.com**
 
- Seeking to join an ambitious team and contribute to production-level software.
- I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies
+ <p>Seeking to join an ambitious team and contribute to production-level software. <br>
+ I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
