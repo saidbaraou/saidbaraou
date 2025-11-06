@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [A marketplace application](https://github.com/saidbaraou/commerce)
 
-- 🌱 Actually learning **React and Django**
+- 🌱 Actually learning **React and Django** On CS50W Program
 
 - 📫 Hit me up **said.baraou8@gmail.com**
 
