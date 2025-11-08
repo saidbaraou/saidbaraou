@@ -8,10 +8,11 @@
 
 - 🌱 Actually learning **React and Django** On [CS50W Program](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript)
 
-- 📫 Hit me up **said.baraou8@gmail.com**
 
  <p>Seeking to join an ambitious team and contribute to production-level software. <br>
  I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies</p>
+
+ 📫 Hit me up **said.baraou8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
