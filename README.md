@@ -12,11 +12,6 @@ Actually learning **React and Django** On [CS50W Program](https://www.edx.org/le
  I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies</p>
  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saïd-baraou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saïd-baraou" height="30" width="40" /></a>
-</p>
-
 
 
 
