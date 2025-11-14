@@ -8,8 +8,16 @@
 
 Actually learning **React and Django** On [CS50W Program](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) by working on [A marketplace application](https://github.com/saidbaraou/commerce)
 
- <p>Seeking to join an ambitious team and contribute to production-level software. <br>
+ <p>Currently seeking to join an ambitious team and contribute to production-level software. <br>
  I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies</p>
+
+ <p>When I'm not coding I might be :</p>
+ <ul>
+  <li>Taking care of my family</li>
+  <li>Reading books while enjoing a delightful strong espresso/macchiato</li>
+  <li>Jumping rope or lifting my own weight</li>
+  <li>Learning how to speak new languages</li>
+ </ul>
  
 
 
