@@ -16,7 +16,7 @@ Actually learning **React and Django** On [CS50W Program](https://www.edx.org/le
   <li>Taking care of my family</li>
   <li>Reading books while enjoing a delightful strong espresso/macchiato</li>
   <li>Jumping rope or lifting my own weight</li>
-  <li>Learning how to speak new languages</li>
+  <li>Learning how to speak different languages</li>
  </ul>
  
 
