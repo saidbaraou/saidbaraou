@@ -12,7 +12,7 @@ Actually learning **React and Django** On [CS50W Program](https://www.edx.org/le
  <p>Currently seeking to join an ambitious team and contribute to production-level software. <br>
  I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies</p>
 
- <p>When I'm not coding I might be :</p>
+ <p>When I'm not coding I may be :</p>
  <ul>
   <li>Taking care of my family</li>
   <li>Reading books while enjoing a delightful strong espresso/macchiato</li>
