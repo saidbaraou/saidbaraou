@@ -4,7 +4,7 @@
 <p align="center">Learning EVERY SINGLE DAY</p>
 
 <p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbaraou&show_icons=true&theme=dracula&include_all_commits=true&locale=en" alt="saidbaraou"/></p>
+<img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=saidbaraou&show_icons=true&theme=dracula&include_all_commits=true&locale=en" alt="saidbaraou"/></p>
 
 
 Actually learning **React and Django** On [CS50W Program](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) by working on [A mail application](https://github.com/saidbaraou/mail)
