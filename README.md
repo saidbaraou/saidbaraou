@@ -7,7 +7,7 @@
 <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=saidbaraou&show_icons=true&theme=dracula&include_all_commits=true&locale=en" alt="saidbaraou"/></p>
 
 
-Actually learning **React and Django** On [CS50W Program](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) by working on [A mail application](https://github.com/saidbaraou/mail)
+Actually learning **React and Django** On [CS50W Program](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript) by working on [A Social Media application](https://github.com/saidbaraou/network)
 
  <p>Currently seeking to join an ambitious team and contribute to production-level software. <br>
  I am looking to scale my expertise in full-stack development and deepen my practical experience with DevOps methodologies</p>
